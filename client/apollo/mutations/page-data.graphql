@@ -1,0 +1,3 @@
+mutation SetPageData($title: String!) {
+    setPageData(title: $title) @client
+}

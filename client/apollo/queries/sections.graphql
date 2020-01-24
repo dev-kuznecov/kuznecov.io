@@ -1,0 +1,10 @@
+query getSections {
+     sections {
+         name
+         url
+         title
+         tags {
+             title
+         }
+     }
+}

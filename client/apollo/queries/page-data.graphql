@@ -1,0 +1,5 @@
+query pageData {
+    pageData @client {
+        title
+    }
+}

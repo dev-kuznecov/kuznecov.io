@@ -1,0 +1,42 @@
+// Colors - prefix "c"
+$c-border: #b2ebf2;
+$c-bg: #1a1f2e;
+$c-icon: #00bcd4;
+$c-big-icon: #00bcd4;
+$c-text: #7383ab;
+$c-title: #7383ab;
+$c-action: #e83953;
+$c-hover: #e83953;
+$c-active: darken(#e83953, 5%);
+$c-active-2: darken(#e83953, 10%);
+$b-radius: 3px;
+
+$c-bg-block: #202940;
+$c-bg-element: #283556;
+$c-bg-element-hover: lighten(#283556, 10%);
+
+// Transitions - prefix "t"
+$t: .15s ease-out;
+
+// Fonts - prefix "f"
+$f: 'Montserrat';
+$f-title: 'Podkova';
+
+// Gutters - prefix "g"
+$g: 24px;
+
+$container-max-widths: (
+        sm: 100%,
+        sl: 100%,
+        md: 100%,
+        lg: 768px,
+        xl: 968px
+);
+$grid-breakpoints: (
+        xs: 0,
+        sm: 480px,
+        sl: 768px,
+        md: 828px,
+        lg: 1025px,
+        xl: 1300px
+);

@@ -1,0 +1,8 @@
+query getSkills {
+     skills {
+         title
+         hash
+         progress
+         text
+     }
+}

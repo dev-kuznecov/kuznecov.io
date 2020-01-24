@@ -1,0 +1,16 @@
+query getExperience {
+    timeline {
+        title
+        date
+        status
+        text
+    }
+
+    projects {
+        id
+        title
+        tag
+        url
+        text
+    }
+}
