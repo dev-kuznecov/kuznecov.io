@@ -4,6 +4,7 @@
 
 Старая версия без Nuxt, на Webpack — [Репозиторий](https://github.com/kuznecov-dev/kuznecov.io)
 
+Версия на React — coming soon
 
 ## Build Setup 
 
